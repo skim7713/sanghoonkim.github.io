@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sanghoon Kim"
-  avatar           : "sk12.jpg"
+  avatar           : 
   bio              : "PhD Candidate, University of Illinois at Urbana-Champaign"
   location         : "Champaign, Illinois"
   employer         :
