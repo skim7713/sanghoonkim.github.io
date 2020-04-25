@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Sanghoon Kim"
-  avatar           : "images/sk12.png"
+  avatar           : "https://raw.githubusercontent.com/skim7713/sanghoonkim.github.io/master/images/sk12.png"
   bio              : "PhD Candidate, University of Illinois at Urbana-Champaign"
   location         : 
   employer         :
