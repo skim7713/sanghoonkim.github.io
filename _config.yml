@@ -81,10 +81,10 @@ analytics:
 author:
   name             : "Sanghoon Kim"
   avatar           : "https://github.com/skim7713/sanghoonkim.github.io/blob/master/images/sk12.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD Candidate, University of Illinois at Urbana-Champaign"
+  location         : 
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
