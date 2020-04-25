@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Sanghoon Kim"
-  avatar           : 
+  avatar           : "sk12.jpg"
   bio              : "PhD Candidate, University of Illinois at Urbana-Champaign"
   location         : "Champaign, Illinois"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "sk12@illinois.edu
+  email            : "sk12@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
