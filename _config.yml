@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Sanghoon Kim"
-  avatar           : "sk12.jpg"
+  avatar           : "https://github.com/skim7713/sanghoonkim.github.io/blob/master/images/sk12.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
