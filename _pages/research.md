@@ -4,7 +4,9 @@ permalink: /research/
 author_profile: true
 ---
 
-### Dissertation project: _Voting for nostalgia?: Authoritarian legacies and voting behavior in post-authoritarian democracies._
+### Dissertation project: 
+
+_Voting for nostalgia?: Authoritarian legacies and voting behavior in post-authoritarian democracies._
 
 
 ### Work in progress
