@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I receieved the A. Belden Fields Award for Excellence in Undergraduate Teaching as a Teaching Assisant in 2019. Teaching evaluations are available upon request.
+I received the A. Belden Fields Award for Excellence in Undergraduate Teaching as a Teaching Assisant in 2019. Teaching evaluations are available upon request.
 
 ## Instructor
 
